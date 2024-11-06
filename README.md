@@ -1,4 +1,4 @@
-# flutter_vku_lab3
+# Lap3-IAmRich
 
 A new Flutter project.
 
